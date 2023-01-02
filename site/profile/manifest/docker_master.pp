@@ -1,3 +1,3 @@
-class profile::class profile::docker_master {
+class profile::docker_master {
   include docker
 }
