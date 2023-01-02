@@ -1,3 +1,3 @@
 class role::master_server {
-  include profile::docker_master
+  include profile::docker_masterDUPA
 }
